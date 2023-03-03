@@ -31,4 +31,6 @@ What proportion of parking spaces were required by hotel customers (broken down 
 
 ![image](https://user-images.githubusercontent.com/33282870/222797442-62d50868-21a0-41a8-aff6-793711b902b8.png)
 
+Link to repo: https://github.com/marcin-pawlowski/hotel-data-analysis 
+
 The idea and data for this analysis came from the https://absentdata.com/ website and YT tutorial.
